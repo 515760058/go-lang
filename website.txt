@@ -1,0 +1,12 @@
+LInux命令执行http请求
+https://blog.csdn.net/weixin_33872660/article/details/93802590
+
+
+服务发现之 Etcd VS Consul
+https://www.cnblogs.com/ziyouchutuwenwu/p/5858892.html
+ETCD 服务注册和发现
+https://www.jianshu.com/p/3c517b6783d8
+利用etcd实现服务注册和服务发现
+https://blog.csdn.net/hjxzb/article/details/88931090
+
+
