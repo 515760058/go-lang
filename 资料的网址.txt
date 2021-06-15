@@ -13,3 +13,7 @@ https://blog.csdn.net/hjxzb/article/details/88931090
 《Network Programming with Go by Jan Newmarch》 可以下载pdf，网址是：
 http://tumregels.github.io/Network-Programming-with-Go/
 
+go语言标准库-中文版
+http://www.golang.ltd/
+
+
